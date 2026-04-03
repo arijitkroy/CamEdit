@@ -1,0 +1,7 @@
+opencv-python
+customtkinter
+pillow
+mediapipe==0.10.11
+pyvirtualcam
+pygrabber
+numpy

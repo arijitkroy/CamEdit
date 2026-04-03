@@ -1,0 +1,5 @@
+CamEdit.spec
+build.py
+build
+dist
+*/__pycache__
